@@ -2,9 +2,9 @@
 :root {
     --page-width: 65rem;
     /* https://www.wallpaperflare.com/brown-wooden-surface-wallpaper-176678 */
-    --wood-texture-image: url("https://www.dropbox.com/scl/fi/vs4lkf6efbtsasm91wk6a/wood-light-1440p.jpg?rlkey=q6bsacmbhd1pqqxzh8nyhqhay&st=oiez2jja&dl=1");
+    --wood-texture-image: url("https://raw.githubusercontent.com/Atomlxe/Woodenpedia/refs/heads/main/resources/wood%20light%201440p.jpg");
     /* https://img.freepik.com/premium-photo/close-upkraft-beige-paper-texture-background_1285675-203.jpg?w=1400 */
-    --paper-texture-image: url("https://www.dropbox.com/scl/fi/ju3b5novan7nr25jlvkpw/paper-light.jpg?rlkey=qbibkcxbnw5q92r3i8j18np6v&st=jbk1x077&dl=1");
+    --paper-texture-image: url("https://raw.githubusercontent.com/Atomlxe/Woodenpedia/refs/heads/main/resources/paper%20light.jpg");
 }
 
 body {
